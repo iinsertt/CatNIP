@@ -4,7 +4,7 @@ CatNIP — это минималистичный сетевой протокол
 
 Данный проект **НЕ** готов для релиза и не может быть использован в текущем состоянии в реальных проектах.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./.mit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Build](https://img.shields.io/badge/build-release-green.svg)](#-сборка)
 
 ---
